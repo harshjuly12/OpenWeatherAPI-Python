@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://github.com/harshjuly12/OpenWeatherAPI-Python/assets/112745312/9a6eafe1-e1a8-4a86-9d95-77e2ea008bf4" width="80" style="margin-right: 10px;"></td>
+    <td><img src="https://github.com/harshjuly12/OpenWeatherAPI-Python/assets/112745312/9a6eafe1-e1a8-4a86-9d95-77e2ea008bf4" width="80" style="margin-right: 10;"></td>
     <td><h1 style="margin: 0;">WeatherApp-Python</h1></td>
   </tr>
 </table>
